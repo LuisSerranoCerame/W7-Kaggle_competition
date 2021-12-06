@@ -1,5 +1,4 @@
 # W7-Kaggle_competition
-[Diamonds Competition.pdf](https://github.com/LuisSerranoCerame/W7-Kaggle_competition/files/7659413/Diamonds.Competition.pdf)
 -Eng-
 In this project we were enrolled in a competition amongst our colleagues.
 The main objective was to obtain the lowest Root Median Squared Error for the Diamonds dataset. 
